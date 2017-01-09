@@ -9,8 +9,7 @@ My Node/Express, React-Redux isomorphic boilerplate.
 * [Webpack](http://webpack.github.io)
 * [Webpack Dev Middleware](http://webpack.github.io/docs/webpack-dev-middleware.html)
 * [Webpack Hot Middleware](https://github.com/glenjamin/webpack-hot-middleware)
-* [Redux](https://github.com/rackt/redux)
-* [Redux Dev Tools](https://github.com/gaearon/redux-devtools)
+* [Apollo](https://github.com/apollostack/react-apollo)
 * [ESLint](http://eslint.org)
 
 ## Installation
